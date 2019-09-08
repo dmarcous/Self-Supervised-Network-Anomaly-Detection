@@ -13,7 +13,7 @@ Daniel Surename
 
 # Solution Overview
 
-Soltion [presentation](https://docs.google.com/presentation/d/1oi1FL_iTyaUUEXBjPzvNZMyNWe66y7kiYRGFyaoUWGE/edit#slide=id.gcb9a0b074_1_0)
+## Solution [presentation](https://docs.google.com/presentation/d/1oi1FL_iTyaUUEXBjPzvNZMyNWe66y7kiYRGFyaoUWGE/edit#slide=id.gcb9a0b074_1_0)
 
 ## Solution TL;DR 
 1. Data Cleaning
