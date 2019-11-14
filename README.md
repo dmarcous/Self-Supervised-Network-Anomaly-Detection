@@ -6,10 +6,14 @@
 
 *Haitzikim*
 
-Alon Palombo
-Amit Shor
+[Alon Palombo](https://github.com/alonpal)
+
+[Amit Shor](https://github.com/Amit688)
+
 [Daniel Marcous](https://github.com/dmarcous)
-Daniel Surename
+
+[Daniel Surename](https://nothingtosehere.com)
+
 
 # Solution Overview
 
